@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_lapor" value="name:id;datatype:int,name:botol;datatype:real,name:tetanus;datatype:real" />
+</info>

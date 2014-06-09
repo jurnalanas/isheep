@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list" value="name:id;datatype:int,name:nilai;datatype:string,name:value;datatype:real" />
+	<infoitem key="UD_idhasil" value="name:id;datatype:int,name:otot;datatype:int,name:gerak;datatype:int,name:kepala;datatype:int" />
+</info>

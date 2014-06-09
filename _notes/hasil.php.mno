@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_hasil" value="name:id;datatype:int,name:otot;datatype:int,name:gerak;datatype:int,name:kepala;datatype:int,name:kaki;datatype:int,name:lidah;datatype:int,name:napas;datatype:int,name:kejang;datatype:int,name:date;datatype:date,name:username;datatype:string,name:kembung;datatype:int,name:rahang;datatype:int,name:batuk;datatype:int,name:raisa;datatype:int,name:kelopak;datatype:int,name:botol;datatype:real,name:tetanus;datatype:real" />
+</info>
