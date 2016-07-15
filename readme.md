@@ -21,7 +21,7 @@ Sebelum di Install, jangan lupa untuk mengubah konfigurasi koneksi pada file `Co
 
 Di kembangkan oleh :
 
-- M. Nassurohman 
+- M. Nasrurrohman 
 - Pristi Sukmasetya 	
 - Auliansa Muhammad 
 - Ihda Husnayain 		
